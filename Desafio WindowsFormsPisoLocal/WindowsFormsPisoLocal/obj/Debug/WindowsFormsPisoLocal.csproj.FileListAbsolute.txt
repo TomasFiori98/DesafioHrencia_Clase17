@@ -1,0 +1,20 @@
+C:\Users\1998t\OneDrive\Escritorio\afasddasf\EjerciciosPropuestosLabIIProfeArce-master\WindowsFormsPisoLocal\WindowsFormsPisoLocal\bin\Debug\WindowsFormsPisoLocal.exe.config
+C:\Users\1998t\OneDrive\Escritorio\afasddasf\EjerciciosPropuestosLabIIProfeArce-master\WindowsFormsPisoLocal\WindowsFormsPisoLocal\bin\Debug\WindowsFormsPisoLocal.exe
+C:\Users\1998t\OneDrive\Escritorio\afasddasf\EjerciciosPropuestosLabIIProfeArce-master\WindowsFormsPisoLocal\WindowsFormsPisoLocal\bin\Debug\WindowsFormsPisoLocal.pdb
+C:\Users\1998t\OneDrive\Escritorio\afasddasf\EjerciciosPropuestosLabIIProfeArce-master\WindowsFormsPisoLocal\WindowsFormsPisoLocal\obj\Debug\WindowsFormsPisoLocal.csprojAssemblyReference.cache
+C:\Users\1998t\OneDrive\Escritorio\afasddasf\EjerciciosPropuestosLabIIProfeArce-master\WindowsFormsPisoLocal\WindowsFormsPisoLocal\obj\Debug\WindowsFormsPisoLocal.Form1.resources
+C:\Users\1998t\OneDrive\Escritorio\afasddasf\EjerciciosPropuestosLabIIProfeArce-master\WindowsFormsPisoLocal\WindowsFormsPisoLocal\obj\Debug\WindowsFormsPisoLocal.Properties.Resources.resources
+C:\Users\1998t\OneDrive\Escritorio\afasddasf\EjerciciosPropuestosLabIIProfeArce-master\WindowsFormsPisoLocal\WindowsFormsPisoLocal\obj\Debug\WindowsFormsPisoLocal.csproj.GenerateResource.cache
+C:\Users\1998t\OneDrive\Escritorio\afasddasf\EjerciciosPropuestosLabIIProfeArce-master\WindowsFormsPisoLocal\WindowsFormsPisoLocal\obj\Debug\WindowsFormsPisoLocal.csproj.CoreCompileInputs.cache
+C:\Users\1998t\OneDrive\Escritorio\afasddasf\EjerciciosPropuestosLabIIProfeArce-master\WindowsFormsPisoLocal\WindowsFormsPisoLocal\obj\Debug\WindowsFormsPisoLocal.exe
+C:\Users\1998t\OneDrive\Escritorio\afasddasf\EjerciciosPropuestosLabIIProfeArce-master\WindowsFormsPisoLocal\WindowsFormsPisoLocal\obj\Debug\WindowsFormsPisoLocal.pdb
+C:\Users\1998t\OneDrive\Escritorio\Facultad Tomas\Laboratorio II\Clase 17 - Desafio\Desafio WindowsFormsPisoLocal\WindowsFormsPisoLocal\bin\Debug\WindowsFormsPisoLocal.exe.config
+C:\Users\1998t\OneDrive\Escritorio\Facultad Tomas\Laboratorio II\Clase 17 - Desafio\Desafio WindowsFormsPisoLocal\WindowsFormsPisoLocal\bin\Debug\WindowsFormsPisoLocal.exe
+C:\Users\1998t\OneDrive\Escritorio\Facultad Tomas\Laboratorio II\Clase 17 - Desafio\Desafio WindowsFormsPisoLocal\WindowsFormsPisoLocal\bin\Debug\WindowsFormsPisoLocal.pdb
+C:\Users\1998t\OneDrive\Escritorio\Facultad Tomas\Laboratorio II\Clase 17 - Desafio\Desafio WindowsFormsPisoLocal\WindowsFormsPisoLocal\obj\Debug\WindowsFormsPisoLocal.csprojAssemblyReference.cache
+C:\Users\1998t\OneDrive\Escritorio\Facultad Tomas\Laboratorio II\Clase 17 - Desafio\Desafio WindowsFormsPisoLocal\WindowsFormsPisoLocal\obj\Debug\WindowsFormsPisoLocal.Form1.resources
+C:\Users\1998t\OneDrive\Escritorio\Facultad Tomas\Laboratorio II\Clase 17 - Desafio\Desafio WindowsFormsPisoLocal\WindowsFormsPisoLocal\obj\Debug\WindowsFormsPisoLocal.Properties.Resources.resources
+C:\Users\1998t\OneDrive\Escritorio\Facultad Tomas\Laboratorio II\Clase 17 - Desafio\Desafio WindowsFormsPisoLocal\WindowsFormsPisoLocal\obj\Debug\WindowsFormsPisoLocal.csproj.GenerateResource.cache
+C:\Users\1998t\OneDrive\Escritorio\Facultad Tomas\Laboratorio II\Clase 17 - Desafio\Desafio WindowsFormsPisoLocal\WindowsFormsPisoLocal\obj\Debug\WindowsFormsPisoLocal.csproj.CoreCompileInputs.cache
+C:\Users\1998t\OneDrive\Escritorio\Facultad Tomas\Laboratorio II\Clase 17 - Desafio\Desafio WindowsFormsPisoLocal\WindowsFormsPisoLocal\obj\Debug\WindowsFormsPisoLocal.exe
+C:\Users\1998t\OneDrive\Escritorio\Facultad Tomas\Laboratorio II\Clase 17 - Desafio\Desafio WindowsFormsPisoLocal\WindowsFormsPisoLocal\obj\Debug\WindowsFormsPisoLocal.pdb
